@@ -28,4 +28,4 @@ tags: OC、MapKit
 
 #### 实现的结果
 
-<iframe height=1130 width=620 src="http://oeto56f8q.bkt.clouddn.com/tracking_demo.gif" frameborder=0 scrolling="no">
+![img](http://oeto56f8q.bkt.clouddn.com/tracking_demo.gif)
